@@ -1,4 +1,17 @@
-# Luna
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/6ccf78a8-46eb-43ff-ae06-ba625ea4b0ee" alt="Logo" width="300" height="300">
+  </a>
+
+  <h3 align="center">Luna</h3>
+
+  <p align="center">
+Tune your cycle!
+  </p>
+</p>
+
 
 Luna is an innovative app designed to be your personal guide on the journey to maintaining a routine aligned with your menstrual cycle. It offers a range of useful features to help individuals understand and prepare for hormonal changes throughout their cycle.
 
@@ -19,19 +32,18 @@ You don't need to worry about the security of your data, as Luna ensures that yo
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/c240ea15-6c6b-42af-b8b5-7525c18e51d0" alt="Screenshot 1" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/ab04648a-a28f-4831-aa93-4b91d70a7a21" alt="Screenshot 2" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/5543bd89-31bb-46bc-8d48-7dcca80aeff0" alt="Screenshot 3" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/7bf07d6b-c53b-4243-b8c1-2e4aa957b0a1" alt="Screenshot 4" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/e8bef6e5-5db1-486e-820f-e255dfa24149" alt="Screenshot 5" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/99910bc7-1060-421f-bf6a-b04fddaf63e5" alt="Screenshot 7" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/667fc6a5-e0f8-410e-85ac-7fbe0897c631" alt="Screenshot 8" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/c6b340c6-41d4-43df-a68a-9cc9922a0622" alt="Screenshot 9" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/8474551e-f5e0-43bc-8121-39534f3a515a" alt="Screenshot 11" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/aa651e86-df48-4e00-b098-733ad52cf122" alt="Screenshot 12" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/7e0811f9-b184-4c7f-b0e9-0ea149a341df" alt="Screenshot 13" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/7e9d8ce9-c17b-4ac0-83e9-300894472fa4" alt="Screenshot 14" width="17%" style="margin: 5px;">
-  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/9b059d26-c004-4b5f-a567-8d3d075e79f5" alt="Screenshot 15" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/c240ea15-6c6b-42af-b8b5-7525c18e51d0" alt="Screenshot 1" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/ab04648a-a28f-4831-aa93-4b91d70a7a21" alt="Screenshot 2" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/5543bd89-31bb-46bc-8d48-7dcca80aeff0" alt="Screenshot 3" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/7bf07d6b-c53b-4243-b8c1-2e4aa957b0a1" alt="Screenshot 4" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/e8bef6e5-5db1-486e-820f-e255dfa24149" alt="Screenshot 5" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/99910bc7-1060-421f-bf6a-b04fddaf63e5" alt="Screenshot 7" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/667fc6a5-e0f8-410e-85ac-7fbe0897c631" alt="Screenshot 8" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/c6b340c6-41d4-43df-a68a-9cc9922a0622" alt="Screenshot 9" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/8474551e-f5e0-43bc-8121-39534f3a515a" alt="Screenshot 11" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/aa651e86-df48-4e00-b098-733ad52cf122" alt="Screenshot 12" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/7e0811f9-b184-4c7f-b0e9-0ea149a341df" alt="Screenshot 13" width="16%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/9b059d26-c004-4b5f-a567-8d3d075e79f5" alt="Screenshot 15" width="16%" style="margin: 5px;">
 </div>
 
 ### Video
@@ -141,6 +153,28 @@ Modules
 │   └── ActivityOnCalendarViewController.swift
 
 ```
+
+## Contributors
+
+
+<table>
+  <tr>
+
+<td align="center"><a href="https://github.com/gabrielfelipo"><img src="https://avatars.githubusercontent.com/u/54708833?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Felipo</b></sub></a><br/></td>
+
+<td align="center"><a href="https://github.com/apfdamascena"><img src="https://avatars.githubusercontent.com/u/52205263?s=400&u=033c62df4cc4f73b3010473faf859919019679af&v=4" width="100px;" alt=""/><br /><sub><b>Alex Damascena</b></sub></a><br/></td>
+
+<td align="center"><a href="https://github.com/Sofiamdl"><img src="https://avatars.githubusercontent.com/u/52216863?v=4" width="100px;" alt=""/><br /><sub><b>Sofia Melo</b></sub></a><br/></td>
+
+<td align="center"><a href="https://github.com/CynaraCosta"><img src="https://avatars.githubusercontent.com/u/61971729?v=4" width="100px;" alt=""/><br /><sub><b>Cynara Costa</b></sub></a><br/></td>
+
+<td align="center"><a href="https://github.com/mvbandeira"><img src="https://avatars.githubusercontent.com/u/89087922?v=4" width="100px;" alt=""/><br /><sub><b>Maria Vitória Bandeira</b></sub></a><br/></td>
+
+<td align="center"><a href="https://github.com/alanacr"><img src="https://avatars.githubusercontent.com/u/103276109?v=4" width="100px;" alt=""/><br /><sub><b>Alana Ramos</b></sub></a><br/></td>
+
+</tr>
+ </table>
+
 
 
 
