@@ -2,14 +2,6 @@
 
 Luna is an innovative app designed to be your personal guide on the journey to maintaining a routine aligned with your menstrual cycle. It offers a range of useful features to help individuals understand and prepare for hormonal changes throughout their cycle.
 
-## Screenshots
-
-Inclua algumas capturas de tela ou GIFs mostrando o funcionamento do aplicativo.
-
-### Video
-
-Descreva como usar o projeto. Pode ser útil incluir exemplos de código ou capturas de tela adicionais aqui.
-
 ## Functionalities 
 
 #### Get to know your cycle:
@@ -24,11 +16,41 @@ The app allows synchronization with your mobile calendar, providing an easy and 
 #### Data protection:
 You don't need to worry about the security of your data, as Luna ensures that your personal information will not be stored in any external databases. Everything is kept only on your device, ensuring the privacy and security of your information.
 
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/c240ea15-6c6b-42af-b8b5-7525c18e51d0" alt="Screenshot 1" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/ab04648a-a28f-4831-aa93-4b91d70a7a21" alt="Screenshot 2" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/5543bd89-31bb-46bc-8d48-7dcca80aeff0" alt="Screenshot 3" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/7bf07d6b-c53b-4243-b8c1-2e4aa957b0a1" alt="Screenshot 4" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/e8bef6e5-5db1-486e-820f-e255dfa24149" alt="Screenshot 5" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/99910bc7-1060-421f-bf6a-b04fddaf63e5" alt="Screenshot 7" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/667fc6a5-e0f8-410e-85ac-7fbe0897c631" alt="Screenshot 8" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/c6b340c6-41d4-43df-a68a-9cc9922a0622" alt="Screenshot 9" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/8474551e-f5e0-43bc-8121-39534f3a515a" alt="Screenshot 11" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/aa651e86-df48-4e00-b098-733ad52cf122" alt="Screenshot 12" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/7e0811f9-b184-4c7f-b0e9-0ea149a341df" alt="Screenshot 13" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/7e9d8ce9-c17b-4ac0-83e9-300894472fa4" alt="Screenshot 14" width="17%" style="margin: 5px;">
+  <img src="https://github.com/gabrielfelipo/luna-for-iphone/assets/54708833/9b059d26-c004-4b5f-a567-8d3d075e79f5" alt="Screenshot 15" width="17%" style="margin: 5px;">
+</div>
+
+### Video
+
+[![Assista ao vídeo](https://i9.ytimg.com/vi/HjwMLazWhEQ/mqdefault.jpg?sqp=CLj017MG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIACgAqKAgwIABABGH8gNig9MA8=&rs=AOn4CLBc55uHZWBhsD6RUSBej8dXU6MiiA)](https://youtu.be/HjwMLazWhEQ)
+
+## Technologies Used
+
+- [Swift](https://swift.org/)
+- [UIKit](https://developer.apple.com/documentation/uikit/)
+- [RxSwift](https://github.com/ReactiveX/RxSwift)
+- [Swift Package Manager](https://swift.org/package-manager/)
+- [Firebase Analytics](https://firebase.google.com/products/analytics)
+
 ## Requirements
 
-- iOS 13.0+
-- Xcode 12.0+
-- Swift 5.0+
+- iOS 16.1+
+- Xcode 15.4+
+- Swift 5.10+
 
 ## Installation
 
@@ -52,9 +74,9 @@ In the Luna project, we chose to use VIPER as it offers a clear and modular stru
 **V**iew - **I**nteractor - **P**resenter - **E**ntity - **R**outer
 
 ```plaintext
-View <--> View Controller <--> Presenter <--> Router
-                                       |
-                                       v
+View <--> View Controller <--> Presenter --> Router
+                                     |
+                                     v
                                  Interactor
                                        |
               +------------------------+------------------------+
